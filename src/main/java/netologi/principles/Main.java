@@ -15,6 +15,6 @@ public class Main {
         post.birthday.month = 6;
         post.birthday.year = 1999;
 
-        // Точка останова ставится здесь (на следующей строке или на закрывающей скобке)
+        
     }
 }
